@@ -8,8 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/perryp82/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/perryp82/azure-network-protocols)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/perryp82/configure-ad)
   - [VPN Setup and Usage](https://github.com/perryp82/vpn-lab)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/perryp82/configure-ad)
   - [Exploring DNS Management and Practices](https://github.com/perryp82/dns-lab)
   - [Network Shares and File Permission Management](https://github.com/perryp82/network-file-share-lab)
 
