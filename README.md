@@ -7,11 +7,14 @@
   - [osTicket: Post-Installation Configuration](https://github.com/perryp82/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/perryp82/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/perryp82/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/perryp82/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/perryp82/configure-ad)
+  - [VPN Setup and Usage](https://github.com/perryp82/vpn-lab)
+  - [Exploring DNS Management and Practices](https://github.com/perryp82/dns-lab)
+  - [Network Shares and File Permission Management](https://github.com/perryp82/network-file-share-lab)
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Perry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: www.linkedin.com/in/perrypultorak/
