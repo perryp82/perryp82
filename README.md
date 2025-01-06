@@ -1,6 +1,6 @@
 <h1>Hi, I'm Perry, an <a href="https://linkedin.com/in/perrypultorak/">Aspiring IT Professional</a></h1>
 
-<h2>👨‍💻 Information Technology Projects: (For CC Final, please click on any project!)</h2>
+<h2>👨‍💻 Information Technology Projects: </h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/perryp82/osticket-prereqs)
